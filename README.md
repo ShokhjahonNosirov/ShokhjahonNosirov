@@ -25,6 +25,7 @@
 
 ### :man_technologist: About Me :
 I am a Software Engineer/Backend Developer from Uzbekistan.
+Microsoft Learn Student Alpha Ambassador
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web/mobile applications.
 - :zap: In my free time, I like learning about successful startups.
 
